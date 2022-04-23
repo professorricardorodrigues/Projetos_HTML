@@ -1,3 +1,3 @@
 # Projetos_HTML
-Exercícios em HTML feitos nas aulas!
-Sejam todos bem-vindos!
+Material das aulas de HTML-CSS!
+Bons estudos!
